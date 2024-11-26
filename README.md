@@ -18,7 +18,7 @@ Ez-Scribe is a React-based transcription and translation web application that en
 
 ## 🌐 Live Demo
 
-Try the app here: [Ez-Scribe Demo](https://your-demo-link.com)
+Try the app here: [Ez-Scribe Demo](https://ez-scribe.vercel.app/)
 
 ---
 
